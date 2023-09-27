@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.c1 {
+  background-color: #1e293b;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.h1 {
+  color: #f0bb03;
+  font-family: Bree Serif;
+  font-size: 75px;
+}
+.b1 {
+  color: black;
+  background-color: #ffffff;
+  height: 35px;
+  font-family: Bree Serif;
+  width: 135px;
+  border-radius: 6px;
+  border-width: 0px;
+}
+.p1 {
+  color: #ffffff;
+  font-size: 45px;
+  font-family: Bree Serif;
+}
